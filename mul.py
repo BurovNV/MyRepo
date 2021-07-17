@@ -1,2 +1,2 @@
 x = 5
-print(x ** x)
+print(f'result = {x ** x}')
